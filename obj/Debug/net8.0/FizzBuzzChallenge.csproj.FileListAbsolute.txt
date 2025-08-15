@@ -1,0 +1,14 @@
+/Users/ggouv/Repos/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge
+/Users/ggouv/Repos/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.deps.json
+/Users/ggouv/Repos/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.runtimeconfig.json
+/Users/ggouv/Repos/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.dll
+/Users/ggouv/Repos/FizzBuzzChallenge/bin/Debug/net8.0/FizzBuzzChallenge.pdb
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfoInputs.cache
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.AssemblyInfo.cs
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.csproj.CoreCompileInputs.cache
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.dll
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/refint/FizzBuzzChallenge.dll
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.pdb
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/FizzBuzzChallenge.genruntimeconfig.cache
+/Users/ggouv/Repos/FizzBuzzChallenge/obj/Debug/net8.0/ref/FizzBuzzChallenge.dll
